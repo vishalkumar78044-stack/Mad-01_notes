@@ -34,6 +34,9 @@
 11. which of the following is correct for mvc
     <img width="592" height="314" alt="image" src="https://github.com/user-attachments/assets/279253ac-2620-4481-a097-61d66c4d3ceb" />
 
+    <img width="1150" height="524" alt="image" src="https://github.com/user-attachments/assets/087259c7-b8c1-4c7d-90fb-6bc0ee923074" />
+
+
     till 1.4
 
 
